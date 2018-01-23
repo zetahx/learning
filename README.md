@@ -1,0 +1,2 @@
+# learning
+note about tensorflow
