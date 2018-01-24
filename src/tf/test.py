@@ -1,7 +1,7 @@
 '''
 Created on 2018Äê1ÔÂ19ÈÕ
 
-@author: user
+
 '''
 import tensorflow as tf
 
